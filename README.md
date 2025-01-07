@@ -1,1 +1,1 @@
-Respnsive landing website
+Responsive landing website
